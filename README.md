@@ -8,7 +8,7 @@ Demo
 
 ![alt text](https://github.com/charuhere/WasteClassificationModel/blob/main/imagess/Screenshot%202025-03-09%20131240.jpg)
 
-![alt text](https://github.com/charuhere/WasteClassificationModel/blob/main/imagess/WhatsApp%20Image%202025-03-08%20at%2010.05.57_b97f02a7.jpg)
+![alt text](https://github.com/charuhere/WasteClassificationModel/blob/main/imagess/Screenshot%202025-03-09%20131322.jpg)
 
 ![alt text](https://github.com/charuhere/WasteClassificationModel/blob/main/imagess/WhatsApp%20Image%202025-03-08%20at%2010.05.57_b97f02a7.jpg)
 
